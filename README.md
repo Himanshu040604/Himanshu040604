@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Shaastra Encryptcon hackathon**
+- 🔭 I’m currently working on **Learning Data science**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Data science**
 
 - 📫 How to reach me **hs262764@gmail.com**
 

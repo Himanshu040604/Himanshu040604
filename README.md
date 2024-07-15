@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu singh</h1>
-<h3 align="center">A passionate Ai&ML engineer from India</h3>
+<h3 align="center">A passionate Ai&ML cognoscente from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu040604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu040604" /> </p>
 

@@ -14,6 +14,8 @@
 - 💬 Ask me about **Data science**
 
 - 📫 How to reach me **hs262764@gmail.com**
+  
+- 👨‍💻 Checkout my portfolio **https://portfolio-3mnw.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

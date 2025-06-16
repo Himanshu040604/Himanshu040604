@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hs262764@gmail.com**
   
-- 👨‍💻## my portfolio: [himanshu-singh.tech](https://www.himanshu-singh.tech/)
+- 👨‍💻 my portfolio: [himanshu-singh.tech](https://www.himanshu-singh.tech/)
 
 
 <h3 align="left">Connect with me:</h3>

@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu040604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu040604" /> </p>
 
-- 🔭 I’m currently working on **LLM**
+- 🔭 I’m currently working on a **Voice assistant**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Transformer**
 
-- 👯 I’m looking to collaborate on **Data science projects(specially LLM)**
+- 👯 I’m looking to collaborate on **specially LLM**
 
-- 🤝 I’m looking for help with **Machine learning ,Deep learning**
+- 🤝 I’m looking for help with **Machine learning ,Deep learning,Computer Vision**
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Gen Ai**
 
 - 📫 How to reach me **hs262764@gmail.com**
   

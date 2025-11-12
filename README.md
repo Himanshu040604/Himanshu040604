@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu040604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu040604" /> </p>
 
-- 🔭 I’m currently working on a **Voice assistant**
+- 🔭 I’m currently working on a **GGML based tts**
 
 - 🌱 I’m currently learning **Transformer**
 

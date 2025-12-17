@@ -9,16 +9,16 @@
 
 - I’m looking to collaborate on **specially LLM**
 
-- 📫 How to reach me **hs262764@gmail.com**
+- How to reach me **hs262764@gmail.com**
   
-- 👨‍💻 my portfolio: [himanshu-singh.tech](https://www.himanshu-singh.tech/)
+- my portfolio: [himanshu-singh.tech](https://www.himanshu-singh.tech/)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himanshu040604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu040604" height="30" width="40" /></a>
-
-<a href="https://discord.gg/nothing4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nothing4" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://x.com/nothiingf4" target="_blank">twitter</a> •
+  <a href="https://www.linkedin.com/in/himanshu040604/" target="_blank">linkedin</a> •
+  <a href="https://github.com/Himanshu040604" target="_blank">github</a> •
+  <a href="mailto:hs262764@gmail.com" target="_blank">email</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

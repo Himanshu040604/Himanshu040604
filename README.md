@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himanshu singh</h1>
-<h3 align="center">Developing deep learning codebases for computer vision.</h3>
+<h3 align="center">AI/ML engineer trying to build models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu040604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu040604" /> </p>
 
-- 🔭 I’m currently working on a **GGML based tts**
+- I’m currently working on a **GGML based tts(inference engine)**
 
-- 🌱 I’m currently learning **Transformer**
+- I’m currently learning ** how to apply Transformer in C++ & GGML**
 
-- 👯 I’m looking to collaborate on **specially LLM**
-
-- 🤝 I’m looking for help with **Machine learning ,Deep learning,Computer Vision**
-
-- 💬 Ask me about **Gen Ai**
+- I’m looking to collaborate on **specially LLM**
 
 - 📫 How to reach me **hs262764@gmail.com**
   

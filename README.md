@@ -9,9 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu040604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu040604" /> </p>
 
-- I’m currently working on a **GGML based tts(inference engine)**
+- I’m currently working on  **Agentic development**
 
-- I’m currently learning ** how to apply Transformer in C++ & GGML**
+- I recently worked on a **GGML based tts(inference engine)**
+
+- I’m currently learning **how to apply Transformer in C++ & GGML along with finding my way with Ai agents**
 
 - I’m looking to collaborate on **specially LLM**
 

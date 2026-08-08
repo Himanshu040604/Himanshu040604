@@ -19,7 +19,7 @@
 
 - How to reach me **hs262764@gmail.com**
   
-- my portfolio: [himanshu-singh.tech](https://www.himanshu-singh.tech/)
+- my portfolio: [himxnshu.com](https://www.himxnshu.com/)
 
 
 #### 🔷 my goto stack

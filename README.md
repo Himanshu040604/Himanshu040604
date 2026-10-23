@@ -7,7 +7,6 @@
   <a href="mailto:hs262764@gmail.com" target="_blank">email</a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu040604&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu040604" /> </p>
 
 - I’m currently working on  **Agentic development**
 

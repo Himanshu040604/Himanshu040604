@@ -22,4 +22,8 @@
 
 
 #### 🔷 my goto stack
-- C++ · Python · PyTorch · TensorFlow · LangChain · LangGraph · Flask · Git · Linux · MySQL · Pandas · Scikit-learn · OpenCV · TensorRT · ONNX · Ultralytics · Roboflow
+- Claude, Codex, C++ · Python · PyTorch · TensorFlow · LangChain · LangGraph · Flask · Git · Linux · MySQL · Pandas · Scikit-learn · OpenCV · TensorRT · ONNX · Ultralytics · Roboflow
+
+
+#### 🔷 what i can do
+- I can solve any riddle you put me into, given the time!
